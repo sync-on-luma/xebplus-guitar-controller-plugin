@@ -1,0 +1,10 @@
+PluginData = {};
+PluginData.Type = "LuaScript";
+PluginData.Category = 6;
+PluginData.Name = "Guitar Plugin Uninstaller";
+PluginData.Description = "Uninstall the guitar controller navigation plugin";
+PluginData.Icon = 56;
+PluginData.Safe = false;
+PluginData.ValueA = "APPS/GUITAR/uninstall.lua";
+PluginData.ValueB = "NONE";
+PluginData.ValueC = "NONE";
